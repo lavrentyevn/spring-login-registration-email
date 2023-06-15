@@ -1,4 +1,4 @@
-# spring-login-registration-email
+# spring-registration-email
 This is an educational Java Spring application that implements registration and token sending via email.
 
 Registration, token sending and confirming:
